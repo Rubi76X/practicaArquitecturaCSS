@@ -1,5 +1,5 @@
 # Arquitectura CSS
-### Cruso alura - Front end
+### Curso alura latam - One Next Education
 
 ## Temas vistos
 - Organización y estructura de archivos CSS de un proyecto
